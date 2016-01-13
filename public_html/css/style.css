@@ -1,4 +1,50 @@
+/* This is the CSS styling to my page. */
+
+
+/* Color selections */
 body {background-color: black;}
 body {color: Green}
 h1 {color: red}
 footer {color: red}
+p {
+	background-color:black;
+}
+ul{
+	background-color: black}
+.closing {background-color: black
+}
+
+
+
+/* Padding for page */
+body {padding: 50px 30px 50px 80px;}
+
+/* Borders */
+h1 {position: relative;
+left:50px; right:80px;
+border: 8px solid blue;}
+
+/* font styles and sizes */
+p {
+	font-family:sans-serif;
+	font-size: 20px;
+}
+ul {
+	font-family: sans-serif;
+	font-size: 20px;
+	}
+
+h1 {
+		font-family: Menlo cursive;
+	}
+
+
+/* Height */
+img {
+	height:600px;
+}
+
+/* margins */
+p {
+	margin: 10px;
+}
