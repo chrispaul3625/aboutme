@@ -2,16 +2,16 @@
 
 
 /* Color selections */
-body {background-color: black;}
-body {color: Green}
-h1 {color: red}
-footer {color: red}
+body {background-color: #9dbaad;}
+body {color: #b2766d}
+h1 {color: #109E9E}
+footer {color: #109E9E}
 p {
-	background-color:black;
+	background-color:#B7EEE3;
 }
 ul{
-	background-color: black}
-.closing {background-color: black
+	background-color: #9dbaad}
+.closing {background-color: #9dbaad;
 }
 
 
@@ -22,7 +22,7 @@ body {padding: 50px 30px 50px 80px;}
 /* Borders */
 h1 {position: relative;
 left:50px; right:80px;
-border: 8px solid blue;}
+}
 
 /* font styles and sizes */
 p {
@@ -48,3 +48,6 @@ img {
 p {
 	margin: 10px;
 }
+
+
+.class {text-align: right;}

@@ -12,10 +12,8 @@
 	</head>
 		<body>
 			<header>
-				<h1>Welcome to my webpage! Below is a little bit of information about me!</h1>
-
+				<h1>Welcome to my webpage!</h1>
 				<p><img src="images/picture.jpg" alt="Pic of me"></p>
-
 				<h2>A Little Bit About Me </h2>
 <ul>
 				<li> Hello my name is Chris Paul, I am 27 years old.
@@ -27,7 +25,7 @@
 					Eric being the oldest and my sister Ashley being the youngest.</li>
 	</ul>
 
-				<h3> Interests </h3>
+				<h2> Interests </h2>
 				<ul>
 					<li> Soccer, this is my favorite hobby/interest. </li>
 					<li> I love to be outdoors, camping, hiking, paddle boarding, kayaking etc.</li>
